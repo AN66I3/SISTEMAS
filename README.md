@@ -1,5 +1,5 @@
 # SISTEMAS
-## EJERCICIOS CMDOS
+## EJERCICIOS CMDOS -  PARTE1
 ### 1.1 CREA LOS SIGUIENTES DIRECTORIOS
 
 ![msdos1 1 1](https://user-images.githubusercontent.com/91564729/159907971-a3aa8058-8b57-4389-a26e-0c1d61d7c5a9.jpg)
@@ -46,7 +46,7 @@ VARIOS
  
 
 
-## Indica en cada caso las órdenes utilizadas:
+##  PARTE 2 -Indica en cada caso las órdenes utilizadas:
 
 ### 2.1.- Utilizando el editor de textos de MS-DOS, crea un archivo de texto denominado EJER.TXT,
 con el siguiente contenido, y almacénalo dentro de la carpeta TEXTOS (dentro de la estructura
@@ -100,9 +100,10 @@ EN BASIC 2 ARCHIVOS, EJER.TXT, Y NUEVO.TXT
 EN NOTAS: 1 ARCHIVO LLAMADO NUEVO
  
  
-## EJERCICIO 3 Nombre:
-Indica en cada caso las órdenes utilizadas:
+## PARTE 3 Indica en cada caso las órdenes utilizadas:
+
 ### 3.1.- Borra la carpeta ACCESS y en su lugar crea una nueva carpeta llamada ASTRO
+
  ![msdos3 1](https://user-images.githubusercontent.com/91564729/159913092-b35a1a12-8b54-44e5-b9c8-b7243a3a74f9.jpg)
 
  
@@ -126,11 +127,10 @@ planetas”
  
 ### 3.5.- Utilizando de nuevo el editor de textos de MS-DOS crea el siguiente archivo de texto, y
 guárdalo con el nombre KEPLER.TXT dentro de la carpeta DATOS2}
- ![msdos3 5](https://user-images.githubusercontent.com/91564729/159913100-5eaf88f0-7acf-4d96-88f2-61f2c2070593.jpg)
-
-
-“ La información acumulada facilitó a Johannes Kepler (1571-1630) el
+ “ La información acumulada facilitó a Johannes Kepler (1571-1630) el
 descubrimiento de las leyes que gobiernan el movimiento de los planetas”
+
+![msdos3 5](https://user-images.githubusercontent.com/91564729/159913100-5eaf88f0-7acf-4d96-88f2-61f2c2070593.jpg)
 
 ### 3.6.- Copia los archivos TYCHO.TXT y KEPLER.TXT en la carpeta CIENCIA
  ![msdos3 6](https://user-images.githubusercontent.com/91564729/159913102-c82bf6a7-f007-438c-ae9e-aa86725be76d.JPG)
@@ -138,6 +138,7 @@ descubrimiento de las leyes que gobiernan el movimiento de los planetas”
  
 ### 3.7.- Cambia de lugar los archivos almacenados en DATOS1 y DATOS2 de forma que TYCHO.TXT
 quede guardado dentro DATOS2 y KEPLER.TXT en DATOS1
+
 ![msdos3 7](https://user-images.githubusercontent.com/91564729/159913103-5e181115-0247-421a-abdf-55942971fb29.jpg)
 
 
@@ -163,7 +164,9 @@ observación astronómica constituye uno de los hitos de la astronomía.”
 
 
  
-## 1.- Crea en la carpeta raíz de la unidad A: una carpeta denominada TECINFO
+## PARTE 4.-  Crea en la carpeta raíz de la unidad A: una carpeta denominada TECINFO
+
+
 ![msdos4 1](https://user-images.githubusercontent.com/91564729/159913107-8594465f-6ef0-4582-a39b-fc91be25ca05.jpg)
 
  
