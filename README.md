@@ -1,6 +1,8 @@
 # SISTEMAS
 ## EJERCICIOS CMDOS
 ### 1.1 CREA LOS SIGUIENTES DIRECTORIOS
+
+![msdos1 1 1](https://user-images.githubusercontent.com/91564729/159907971-a3aa8058-8b57-4389-a26e-0c1d61d7c5a9.jpg)
 ### 1.2. SITUATE EN LA CARPETA TABLAS
 
 
