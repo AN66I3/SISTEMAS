@@ -147,6 +147,8 @@ quede guardado dentro DATOS2 y KEPLER.TXT en DATOS1
 ### 3.8.- Crea un nuevo archivo formado por la unión de los dos anteriores (sin volver a escribir el
 texto) y guárdalo dentro de la carpeta HISTORIA con el nombre TOTAL.TXT
 
+![msdos3 8](https://user-images.githubusercontent.com/91564729/159958675-e6029b4f-d74d-4c7d-8ac1-df3412a2b3b3.JPG)
+
 
 ### 3.9.- Abre el archivo KEPLER.TXT almacenado en la carpeta CIENCIA y añade el siguiente texto:
 “Kepler aplicó sus teorías a los satélites de Júpiter, descubiertos por
